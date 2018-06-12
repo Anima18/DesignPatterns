@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f4a8d59-3e18-42b3-9d24-936b734e2ca6" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/state/GumballMachine.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/state/HasQuarterState.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/state/NoQuarterState.java" />
@@ -9,6 +10,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/chirs/designpattern/facade/DwarvenMineWorker.class" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/chirs/designpattern/facade/DwarvenMineWorker.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/IvoryTower.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/PoxyTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/Wizard.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTower.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTowerProxy.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +33,11 @@
       <file leaf-file-name="Character.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/Character.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="66">
+=======
+            <state relative-caret-position="0">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
               <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
@@ -34,7 +47,11 @@
       <file leaf-file-name="Yagami.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/Yagami.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="88">
+=======
+            <state relative-caret-position="0">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="e#179#180#0" expanded="true" />
@@ -56,6 +73,7 @@
       </file>
       <file leaf-file-name="GamePad.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePad.java">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
@@ -88,6 +106,18 @@
             <state relative-caret-position="242">
               <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding />
+=======
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+              </folding>
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
             </state>
           </provider>
         </entry>
@@ -95,18 +125,31 @@
       <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/state/State.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="264">
               <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+=======
+            <state relative-caret-position="0">
+              <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="HasQuarterState.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/state/HasQuarterState.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="616">
               <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+=======
+      <file leaf-file-name="GamePadPay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePadPay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
               <folding>
                 <element signature="e#224#225#0" expanded="true" />
                 <element signature="e#276#277#0" expanded="true" />
@@ -119,6 +162,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="NoQuarterState.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/state/NoQuarterState.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,6 +179,64 @@
                 <element signature="e#728#729#0" expanded="true" />
                 <element signature="e#760#761#0" expanded="true" />
                 <element signature="e#804#805#0" expanded="true" />
+=======
+      <file leaf-file-name="WizardTower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IvoryTower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/IvoryTower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WizardTowerProxy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTowerProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PoxyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/PoxyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wizard.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/Wizard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
               </folding>
             </state>
           </provider>
@@ -218,6 +320,7 @@
         <option value="$PROJECT_DIR$/src/com/chirs/designpattern/command/command/PunchCommand.java" />
         <option value="$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePad.java" />
         <option value="$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePadPay.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/chirs/designpattern/state/State.java" />
         <option value="$PROJECT_DIR$/src/com/chirs/designpattern/state/GumballMachine.java" />
         <option value="$PROJECT_DIR$/src/com/chirs/designpattern/state/HasQuarterState.java" />
@@ -230,6 +333,21 @@
     <option name="y" value="1" />
     <option name="width" value="1364" />
     <option name="height" value="726" />
+=======
+        <option value="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/Wizard.java" />
+        <option value="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTower.java" />
+        <option value="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/IvoryTower.java" />
+        <option value="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/PoxyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTowerProxy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1368" />
+    <option name="height" value="878" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -250,6 +368,7 @@
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="DesignPatterns" />
@@ -300,6 +419,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+=======
+          <expand>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -307,9 +453,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3137931" />
+=======
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -328,8 +478,20 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.GamePadPay">
     <configuration default="false" name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Application.PoxyTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.chirs.designpattern.adapter.*" />
@@ -438,6 +600,25 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
+    </configuration>
+    <configuration name="PoxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.chirs.designpattern.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.chirs.designpattern.proxy.PoxyTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatterns" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -581,14 +762,16 @@
       <option name="params" value="" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.AdapterTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.GamePadPay" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PoxyTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.GamePadPay" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AdapterTest" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.PoxyTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GamePadPay" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AdapterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -609,17 +792,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -627,12 +818,25 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2607362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858709" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20595238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -655,7 +859,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/Character.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="66">
+=======
+        <state relative-caret-position="57">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
@@ -663,7 +871,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/KickCommand.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="286">
+=======
+        <state relative-caret-position="190">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding />
         </state>
@@ -671,7 +883,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/Yagami.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="88">
+=======
+        <state relative-caret-position="76">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="e#179#180#0" expanded="true" />
@@ -690,6 +906,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/PunchCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -818,11 +1035,19 @@
             <element signature="e#631#632#0" expanded="true" />
             <element signature="e#677#678#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/ForwardCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/PunchCommand.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="220">
           <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding>
@@ -831,11 +1056,17 @@
             <element signature="e#322#323#0" expanded="false" />
             <element signature="e#355#356#0" expanded="false" />
           </folding>
+=======
+        <state relative-caret-position="190">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/UpCommand.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="220">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
@@ -843,13 +1074,26 @@
             <element signature="e#273#274#0" expanded="true" />
             <element signature="e#316#317#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
+=======
+        <state relative-caret-position="190">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#273#274#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePad.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="154">
+=======
+        <state relative-caret-position="133">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -861,9 +1105,23 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/KyoKusanagi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
+=======
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/KyoKusanagi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="e#184#185#0" expanded="false" />
@@ -884,7 +1142,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePadPay.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="220">
+=======
+        <state relative-caret-position="190">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -922,27 +1184,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/ForwardCommand.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="220">
           <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+=======
+        <state relative-caret-position="190">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/UpCommand.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="220">
+=======
+        <state relative-caret-position="190">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#273#274#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/KyoKusanagi.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="374">
+=======
+        <state relative-caret-position="323">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="e#184#185#0" expanded="false" />
@@ -971,6 +1247,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/command/PunchCommand.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="220">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding>
@@ -979,12 +1256,21 @@
             <element signature="e#322#323#0" expanded="false" />
             <element signature="e#355#356#0" expanded="false" />
           </folding>
+=======
+        <state relative-caret-position="190">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/Character.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="66">
+=======
+        <state relative-caret-position="0">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
@@ -992,7 +1278,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/character/Yagami.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="88">
+=======
+        <state relative-caret-position="0">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="e#179#180#0" expanded="true" />
@@ -1011,10 +1301,24 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Character.java" />
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
+=======
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1028,14 +1332,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/command/GamePadPay.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="110">
           <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+=======
+        <state relative-caret-position="-8">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/strategy/RedHeadDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1056,10 +1366,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/Wizard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/state/HasQuarterState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -1071,10 +1401,20 @@
             <element signature="e#381#382#0" expanded="true" />
             <element signature="e#713#714#0" expanded="true" />
             <element signature="e#771#772#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/IvoryTower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/state/NoQuarterState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -1119,6 +1459,23 @@
             <element signature="e#1306#1307#0" expanded="true" />
             <element signature="e#1335#1336#0" expanded="true" />
             <element signature="e#1363#1364#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/PoxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chirs/designpattern/proxy/WizardTowerProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+>>>>>>> 3543f9ccbc6b130833a5e979e8b13cfffadc5fea
           </folding>
         </state>
       </provider>
